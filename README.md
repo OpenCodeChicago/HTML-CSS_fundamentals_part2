@@ -17,10 +17,13 @@ In this lesson, we explored:
 
 ---
 
-## Screenshots
+## Images
 
-![box-model](images/box-sizing.png) _Screenshot 1
+![box-model](images/box-sizing.png) _Image 1
 (CSS box-smodel)_
+
+![flex-box](images/flex-box.png) _Image 2
+(CSS flex-box)_
 
 ---
 
