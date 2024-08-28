@@ -3,8 +3,69 @@ body {
   background-color: lightgray;
 }
 
+.wrapper {
+  position: relative;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  border: 50px solid #868e96;
+  background-color: rgb(118, 255, 255);
+  margin-bottom: 50px;
+  margin-right: 80px;
+  display: inline-block;
+
+}
+
+.box2 {
+  width: 200px;
+  height: 200px;
+  border: 50px solid #868e96;
+  background-color: rgb(118, 255, 255);
+  margin-bottom: 50px;
+  display: inline-block;
+  position: relative;
+  padding: 50px;
+}
+
+.text {
+  position: absolute;
+  top: 50%;
+  left: -120px;
+  transform: translateY(-50%);
+  font-size: 20px;
+  padding-bottom: 3px;
+  color: red;
+  border-bottom: 3px solid red;
+}
+
+.text2 {
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 20px;
+}
+
+.text3 {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 20px;
+}
+
+.text4 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: red;
+  font-size: 20px;
+}
+
 .container {
-  background-color: rgb(165, 165, 165);
+  background-color: #adb5bd;
   width: 800px;
   margin-bottom: 50px;
 }
@@ -47,7 +108,7 @@ body {
 /* Also we added margin 0 auto, that will position this container on a center of a page, no matter of between devices */
 
 .container2 {
-  background-color: rgb(165, 165, 165);
+  background-color: #adb5bd;
   width: 800px;
   display: flex;
   margin: 0 auto;
@@ -79,11 +140,12 @@ body {
 }
 
 .container3 {
-  background-color: rgb(165, 165, 165);
+  background-color: #adb5bd;
   width: 800px;
   display: flex;
   justify-content: center;
   justify-content: space-between;
+  margin-bottom: 50px;
 }
 
 .item9 {
@@ -108,4 +170,113 @@ body {
   background-color: lightseagreen;
   width: 100px;
   height: 100px;
+}
+
+.container4 {
+  background-color: #adb5bd;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+
+.item13 {
+  background-color: lightgreen;
+  /* width: 100px; */
+  height: 100px;
+}
+
+.item14 {
+  background-color: lightcoral;
+  /* width: 100px; */
+  height: 100px;
+}
+
+.item15 {
+  background-color: lightgoldenrodyellow;
+  /* width: 100px; */
+  height: 100px;
+}
+
+.item16 {
+  background-color: lightseagreen;
+  /* width: 100px; */
+  height: 100px;
+}
+
+.container5 {
+  background-color: #adb5bd;
+  width: 800px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item17 {
+  background-color: lightgreen;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #000;
+}
+
+.item18 {
+  background-color: lightcoral;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #000;
+}
+
+.item19 {
+  background-color: lightgoldenrodyellow;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #000;
+}
+
+.item20 {
+  background-color: lightseagreen;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #000;
+}
+
+.item21 {
+  background-color: lightgreen;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #000;
+}
+
+.item22 {
+  background-color: lightcoral;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #000;
+}
+
+.item23 {
+  background-color: lightgoldenrodyellow;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #000;
+}
+
+.item24 {
+  background-color: lightseagreen;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #000;
+}
+
+.item25 {
+  background-color: lightgreen;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #000;
+}
+
+.item26 {
+  background-color: lightcoral;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #000;
 }
