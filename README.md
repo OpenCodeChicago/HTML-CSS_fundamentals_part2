@@ -3,7 +3,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/OpenCodeChicago/HTML-CSS_fundamentals_part2)](https://github.com/OpenCodeChicago/HTML-CSS_fundamentals_part2/commits/main)
 [![GitHub license](https://img.shields.io/github/license/OpenCodeChicago/HTML-CSS_fundamentals_part2)](https://github.com/OpenCodeChicago/HTML-CSS_fundamentals_part2/blob/main/LICENSE)
 
-> This repository delves into essential `**CSS**` layout techniques, focusing on the `**box model**`, `**flexbox**`, and understanding the intricacies of `**content-box**` vs. `**border-box**`. It is ideal for those looking to enhance their web development skills with a solid grasp of layout principles.
+> This repository delves into essential **`CSS`** layout techniques, focusing on the **`box model`**, **`flexbox`**, and understanding the intricacies of **`content-box`** vs. **`border-box`**. It is ideal for those looking to enhance their web development skills with a solid grasp of layout principles.
 
 ---
 
@@ -39,6 +39,13 @@ This repository follows the folder structure below:
 - **`styles.css`**: This external CSS file is used for styling the HTML elements.
 
 ---
+
+## What's Next
+
+As we continue to dive deeper into **`HTML`** and **`CSS`**, the next lesson will cover::
+- **Colors**: Exploring color theory, including color schemes and how to apply colors effectively using CSS.
+- **Image Optimization**: Understanding techniques to optimize images for faster loading times and better performance on the web.
+
 
 **Stay tuned as we build on these foundational skills and move toward more advanced concepts in web development.**
 
