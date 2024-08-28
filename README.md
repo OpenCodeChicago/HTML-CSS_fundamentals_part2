@@ -17,6 +17,8 @@ In this lesson, we explored:
 
 ---
 
+## Screenshots
+
 ## Getting Started
 
 To explore the content of this repository:
