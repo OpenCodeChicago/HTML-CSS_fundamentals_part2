@@ -19,6 +19,11 @@ In this lesson, we explored:
 
 ## Screenshots
 
+![box-model](images/box-sizing.png) _Screenshot 1
+(CSS box-smodel)_
+
+---
+
 ## Getting Started
 
 To explore the content of this repository:
