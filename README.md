@@ -1,7 +1,7 @@
 # HTML/CSS Fundamentals
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/OpenCodeChicago/HTML-CSS_fundamentals_part1)](https://github.com/OpenCodeChicago/HTML-CSS_fundamentals_part1/commits/main)
-[![GitHub license](https://img.shields.io/github/license/OpenCodeChicago/HTML-CSS_fundamentals_part1)](https://github.com/OpenCodeChicago/HTML-CSS_fundamentals_part1/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/OpenCodeChicago/HTML-CSS_fundamentals_part2)](https://github.com/OpenCodeChicago/HTML-CSS_fundamentals_part2/commits/main)
+[![GitHub license](https://img.shields.io/github/license/OpenCodeChicago/HTML-CSS_fundamentals_part2)](https://github.com/OpenCodeChicago/HTML-CSS_fundamentals_part2/blob/main/LICENSE)
 
 > This repository covers the fundamentals of HTML and CSS, focusing on creating structured web pages and basic styling techniques. It is perfect for beginners or anyone looking to solidify their foundational skills in web development.
 
