@@ -52,10 +52,10 @@ This repository follows the folder structure below:
 
 ## What's Next
 
-As we continue to dive deeper into **`HTML`** and **`CSS`**, the next lesson will cover::
-- **Colors**: Exploring color theory, including color schemes and how to apply colors effectively using CSS.
-- **Image Optimization**: Understanding techniques to optimize images for faster loading times and better performance on the web.
-
+As we continue to dive deeper into **`HTML`** and **`CSS`**, the next lesson will cover:
+- **Forms**: Learning how to create user-friendly forms, including input types like text fields, checkboxes, radio buttons, and submit buttons.
+- **Form Accessibility**: Best practices for making forms accessible to all users, including proper labeling and structuring.
+- **Styling Forms**: Understanding how to use CSS to enhance the visual appearance and usability of form elements.
 
 **Stay tuned as we build on these foundational skills and move toward more advanced concepts in web development.**
 
