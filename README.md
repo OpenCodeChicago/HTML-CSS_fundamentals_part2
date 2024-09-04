@@ -1,4 +1,4 @@
-# HTML/CSS Fundamentals
+# HTML/CSS Fundamentals: Box Model & Flexbox
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/OpenCodeChicago/HTML-CSS_fundamentals_part2)](https://github.com/OpenCodeChicago/HTML-CSS_fundamentals_part2/commits/main)
 [![GitHub license](https://img.shields.io/github/license/OpenCodeChicago/HTML-CSS_fundamentals_part2)](https://github.com/OpenCodeChicago/HTML-CSS_fundamentals_part2/blob/main/LICENSE)
